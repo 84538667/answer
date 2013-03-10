@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="button">
+        <item>@id/button1</item>
+        <item>@id/button2</item>
+        <item>@id/button3</item>
+        <item>@id/button4</item>
+        <item>@id/button5</item>
+        <item>@id/button6</item>
+        <item>@id/button7</item>
+        <item>@id/button8</item>
+        <item>@id/button9</item>
+        <item>@id/button10</item>
+        <item>@id/button11</item>
+        <item>@id/button12</item>
+        <item>@id/button13</item>
+        <item>@id/button14</item>
+        <item>@id/button15</item>
+        <item>@id/button16</item>
+        <item>@id/button17</item>
+        <item>@id/button18</item>
+        <item>@id/button19</item>
+        <item>@id/button20</item>
+    </string-array>
+    <string-array name="hasDone">
+        <item>@drawable/hasdone1</item>
+        <item>@drawable/hasdone2</item>
+        <item>@drawable/hasdone3</item>
+        <item>@drawable/hasdone4</item>
+        <item>@drawable/hasdone5</item>
+        <item>@drawable/hasdone6</item>
+        <item>@drawable/hasdone7</item>
+        <item>@drawable/hasdone8</item>
+        <item>@drawable/hasdone9</item>
+        <item>@drawable/hasdone10</item>
+        <item>@drawable/hasdone11</item>
+        <item>@drawable/hasdone12</item>
+        <item>@drawable/hasdone13</item>
+        <item>@drawable/hasdone14</item>
+        <item>@drawable/hasdone15</item>
+        <item>@drawable/hasdone16</item>
+        <item>@drawable/hasdone17</item>
+        <item>@drawable/hasdone18</item>
+        <item>@drawable/hasdone19</item>
+        <item>@drawable/hasdone20</item>
+    </string-array>
+    <string-array name="undo">
+        <item>@drawable/undo1</item>
+        <item>@drawable/undo2</item>
+        <item>@drawable/undo3</item>
+        <item>@drawable/undo4</item>
+        <item>@drawable/undo5</item>
+        <item>@drawable/undo6</item>
+        <item>@drawable/undo7</item>
+        <item>@drawable/undo8</item>
+        <item>@drawable/undo9</item>
+        <item>@drawable/undo10</item>
+        <item>@drawable/undo11</item>
+        <item>@drawable/undo12</item>
+        <item>@drawable/undo13</item>
+        <item>@drawable/undo14</item>
+        <item>@drawable/undo15</item>
+        <item>@drawable/undo16</item>
+        <item>@drawable/undo17</item>
+        <item>@drawable/undo18</item>
+        <item>@drawable/undo19</item>
+        <item>@drawable/undo20</item>
+    </string-array>
+</resources>

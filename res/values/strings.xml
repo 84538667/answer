@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">answer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="previous">上一题</string>
+	<string name="next">下一题</string>
+	<string name="submit">交卷</string>
+	<string name="choosequestion">选题</string>
+</resources>
